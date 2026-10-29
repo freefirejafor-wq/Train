@@ -1,0 +1,22 @@
+IPProto,SrcIP,SrcPort,DstIp,DstPort,UID,App,PackageName,Proto,Status,Info,BytesSent,BytesRcvd,PktsSent,PktsRcvd,FirstSeen,LastSeen
+17,10.215.173.1,56385,10.215.173.2,53,10577,BD Train Tracking,com.gatishil.bdtrainguide,DNS,Closed,gatishil.com,58,74,1,1,2026-10-29T18:36:45.394+06:00,2026-10-29T18:36:45.416+06:00
+6,10.215.173.1,46300,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,1991,3154,10,9,2026-10-29T18:36:45.426+06:00,2026-10-29T18:36:55.488+06:00
+17,10.215.173.1,10221,10.215.173.2,53,10577,BD Train Tracking,com.gatishil.bdtrainguide,DNS,Closed,gateway.unityads.unity3d.com,74,136,1,1,2026-10-29T18:36:45.446+06:00,2026-10-29T18:36:45.482+06:00
+17,10.215.173.1,43024,34.149.76.49,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,QUIC,Closed,gateway.unityads.unity3d.com,8357,4210,11,11,2026-10-29T18:36:45.488+06:00,2026-10-29T18:36:46.032+06:00
+17,10.215.173.1,26030,10.215.173.2,53,10577,BD Train Tracking,com.gatishil.bdtrainguide,DNS,Closed,raw.githubusercontent.com,71,87,1,1,2026-10-29T18:36:46.853+06:00,2026-10-29T18:36:46.861+06:00
+6,10.215.173.1,48620,185.199.109.133,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,raw.githubusercontent.com,1862,4712,12,11,2026-10-29T18:36:46.864+06:00,2026-10-29T18:37:21.122+06:00
+17,10.215.173.1,58803,10.215.173.2,53,10577,BD Train Tracking,com.gatishil.bdtrainguide,DNS,Closed,www.facebook.com,62,107,1,1,2026-10-29T18:36:50.369+06:00,2026-10-29T18:36:50.405+06:00
+6,10.215.173.1,48864,57.144.42.1,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,www.facebook.com,4964,10512,10,9,2026-10-29T18:36:50.409+06:00,2026-10-29T18:36:50.814+06:00
+17,10.215.173.1,62313,10.215.173.2,53,10577,BD Train Tracking,com.gatishil.bdtrainguide,DNS,Closed,gatishil.com,58,106,1,1,2026-10-29T18:36:56.235+06:00,2026-10-29T18:36:56.307+06:00
+6,10.215.173.1,37320,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Closed,gatishil.com,1887,3073,8,7,2026-10-29T18:36:56.316+06:00,2026-10-29T18:37:06.450+06:00
+17,10.215.173.1,1883,10.215.173.2,53,10577,BD Train Tracking,com.gatishil.bdtrainguide,DNS,Closed,firebaseappcheck.googleapis.com,77,205,1,1,2026-10-29T18:36:56.852+06:00,2026-10-29T18:36:56.926+06:00
+6,10.215.173.1,37332,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,1581,3867,15,13,2026-10-29T18:36:56.889+06:00,2026-10-29T18:37:17.006+06:00
+6,10.215.173.1,49586,172.217.118.4,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,firebaseappcheck.googleapis.com,3953,7238,14,12,2026-10-29T18:36:56.940+06:00,2026-10-29T18:36:58.992+06:00
+6,10.215.173.1,37344,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,3084,1459,19,17,2026-10-29T18:36:59.312+06:00,2026-10-29T18:37:26.092+06:00
+6,10.215.173.1,37356,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Error,gatishil.com,1079,500,9,7,2026-10-29T18:36:59.315+06:00,2026-10-29T18:36:59.346+06:00
+6,10.215.173.1,37370,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Error,gatishil.com,1063,3028,8,6,2026-10-29T18:36:59.318+06:00,2026-10-29T18:36:59.354+06:00
+6,10.215.173.1,40642,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,1991,3154,10,9,2026-10-29T18:37:07.245+06:00,2026-10-29T18:37:17.307+06:00
+6,10.215.173.1,44002,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,1991,3114,10,8,2026-10-29T18:37:17.548+06:00,2026-10-29T18:37:27.628+06:00
+6,10.215.173.1,40596,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,1462,3724,12,10,2026-10-29T18:37:21.172+06:00,2026-10-29T18:37:26.093+06:00
+17,10.215.173.1,38992,34.149.76.49,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,QUIC,Active,gateway.unityads.unity3d.com,8551,4178,12,12,2026-10-29T18:37:27.767+06:00,2026-10-29T18:37:28.310+06:00
+6,10.215.173.1,40600,104.26.1.190,443,10577,BD Train Tracking,com.gatishil.bdtrainguide,HTTPS,Active,gatishil.com,1991,3114,10,8,2026-10-29T18:37:30.043+06:00,2026-10-29T18:37:40.104+06:00

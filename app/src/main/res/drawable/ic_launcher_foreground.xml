@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 3D Perspective Railway Tracks -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M24,84 L44,68 L48,68 L30,84 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M84,84 L64,68 L60,68 L78,84 Z" />
+    <path
+        android:fillColor="#80FFB300"
+        android:pathData="M30,78 L78,78 L81,81 L27,81 Z" />
+    <path
+        android:fillColor="#80FFB300"
+        android:pathData="M37,72 L71,72 L73,74 L35,74 Z" />
+
+    <!-- High-Speed BD Express Train Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,34 C34,27 40,22 54,22 C68,22 74,27 74,34 L76,64 C76,67 73,70 70,70 L38,70 C35,70 32,67 32,64 Z" />
+
+    <!-- BD Railway Crimson & Emerald Accent Stripe -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M33,48 L75,48 L75.5,55 L32.5,55 Z" />
+
+    <!-- Cockpit Windshield -->
+    <path
+        android:fillColor="#062C21"
+        android:pathData="M39,31 L69,31 L71,43 L37,43 Z" />
+
+    <!-- Golden Headlights -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M38,59 A3.5,3.5 0 1,1 45,59 A3.5,3.5 0 1,1 38,59 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M63,59 A3.5,3.5 0 1,1 70,59 A3.5,3.5 0 1,1 63,59 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M50,25 L58,25 L58,28 L50,28 Z" />
+</vector>

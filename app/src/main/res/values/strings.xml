@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RailPulse BD</string>
+    <string name="app_subtitle">বাংলাদেশ রেলওয়ে লাইভ 3D রাডার ও যাত্রী হাব</string>
+    <string name="search_tab_train">ট্রেন</string>
+    <string name="search_tab_route">রুট</string>
+    <string name="search_tab_voice">বলে খুঁজুন</string>
+    <string name="search_hint_train">নাম বা নম্বর লিখুন — যেমন ৭০১, সুবর্ণ, কক্সবাজার</string>
+    <string name="btn_view_train">ট্রেন দেখুন (Live 3D)</string>
+    <string name="feature_train_locator">ট্রেন লোকেটর</string>
+    <string name="feature_live_status">লাইভ স্ট্যাটাস</string>
+    <string name="feature_live_chat">লাইভ চ্যাট</string>
+    <string name="feature_station_board">স্টেশন বোর্ড</string>
+    <string name="feature_station_status">স্টেশন অবস্থা</string>
+    <string name="feature_lost_found">হারানো-পাওয়া</string>
+    <string name="feature_coach_position">বগির অবস্থান</string>
+    <string name="feature_route_analysis">রুট বিশ্লেষণ</string>
+    <string name="rail_safety_title">রেল নিরাপত্তা</string>
+    <string name="rail_safety_subtitle">ট্রেন, প্ল্যাটফর্ম ও লাইনে নিরাপদ থাকুন</string>
+    <string name="more_services_title">আরও সেবা</string>
+    <string name="service_guide">নির্দেশিকা</string>
+    <string name="service_faq">প্রশ্নোত্তর</string>
+    <string name="service_complaint">অভিযোগ</string>
+    <string name="service_next_train">পরবর্তী ট্রেন</string>
+</resources>

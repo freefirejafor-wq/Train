@@ -1,0 +1,6 @@
+{
+  "name": "RailPulse BD",
+  "description": "বাংলাদেশ রেলওয়ের লাইভ 3D ট্রেন ট্র্যাকার, রিয়েল-টাইম লোকেশন রাডার (trainkothai.com), স্টেশন বোর্ড, বগির অবস্থান, ভয়েস সার্চ ও যাত্রী সেবা অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
